@@ -3,4 +3,5 @@ function teste() {
 	x = x +1;
 	var y = x;
 	var z = y;
+	z = y+1;
 }
