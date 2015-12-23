@@ -6,4 +6,5 @@ function teste() {
 	z = y+1;
 	var u =z;
 	y = u + z;
+	y = u;
 }
